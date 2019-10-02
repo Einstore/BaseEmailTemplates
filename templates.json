@@ -11,11 +11,11 @@
     },
     {
       "name": "email.password-recovery.html",
-      "link": "https://raw.githubusercontent.com/Einstore/BaseEmailTemplates/master/Templates/email.password-recovery.html.leaf"
+      "link": "https://raw.githubusercontent.com/Einstore/BaseEmailTemplates/pr/new-email-design/Templates/email.password-recovery.html.leaf"
     },
     {
       "name": "email.password-recovery.plain",
-      "link": "https://raw.githubusercontent.com/Einstore/BaseEmailTemplates/master/Templates/email.password-recovery.plain.leaf"
+      "link": "https://raw.githubusercontent.com/Einstore/BaseEmailTemplates/pr/new-email-design/Templates/email.password-recovery.plain.leaf"
     },
     {
       "name": "email.registration.html",
